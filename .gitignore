@@ -1,0 +1,11 @@
+node_modules/
+bower_components/
+.sass-cache/
+.tmp/
+dist/
+*.swp
+.DS_Store
+**/.DS_Store
+# Custom configuration for gulp browsersync
+browsersync.conf.json
+**/constants.config.js
